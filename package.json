@@ -1,0 +1,23 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "a project done in node to generate a readme.md file for future github projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasOffen/readmeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasOffen/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/JasOffen/readmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}

@@ -1,2 +1,4 @@
-# readmeGenerator
-a project done in node to generate a readme.md file for future github projects
+# App
+Appl
+ ## Image of application 
+ ![alt="image of application"](./assets/images/myproject.png)
