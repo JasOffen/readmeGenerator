@@ -3,13 +3,13 @@
 
 ## Table of Contents
 * [Description](#Description)
-* [How to use](#Usage)
+* [How to use](#Howtouse)
 * [Installing](#Installing)
 * [License](#license)
 * [Contributing](#contribution)
 ## Description
 y
-## Usage
+## How to use
 y
 ## Installation
 y
