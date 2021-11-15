@@ -1,31 +1,14 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# ReadMe Generator
-
+# Readme Generator
 ## Table of Contents
-* [Description](#Description)
-* [How to use](#Usage)
-* [Installing](#Installing)
-* [License](#license)
-* [Contributing](#contribution)
-## Description
-y
-## Usage
-y
-## Installation
-y
-## License
-y
-## Questions
-y
-## Contributing
+* [Description](#Description) 
+* [How to use](#usage) 
+* [Installing](#Installing) 
+* [Contributing](#contribution) 
+## Description 
+creates a readme.md file based off of user inputs
+![Readme Generator](./images/application.png)
+## usage 
+simply download and run the files then follow the onscreen instructions
+## Questions 
+## Contributers 
 Jason Offenbaker
-
-
-//Name
-//Application name
-//Description
-//how do I install this?
-//path to application image
-//license
-//languages
-//github URL
